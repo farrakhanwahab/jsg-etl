@@ -1,0 +1,750 @@
+{
+    "dim_outcome_types_5": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_outcome_types_4": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_outcome_types_6": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_payment_status": {
+        "records_inserted": 50,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_courts": {
+        "records_inserted": 100,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_outcome_types_7": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_outcome_types_3": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_courts_9": {
+        "records_inserted": 151,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_courts_8": {
+        "records_inserted": 260,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_outcome_types_2": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_judges_9": {
+        "records_inserted": 293,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "cases": {
+        "records_inserted": 100,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_judges_8": {
+        "records_inserted": 175,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_outcome_types_1": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_judges_19": {
+        "records_inserted": 184,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_parties_involved_16": {
+        "records_inserted": 240,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_payment_status_6": {
+        "records_inserted": 3,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_case_types_3": {
+        "records_inserted": 6,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_courts_10": {
+        "records_inserted": 280,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_courts_11": {
+        "records_inserted": 239,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "processed_cases": {
+        "records_inserted": 100,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_case_types_2": {
+        "records_inserted": 6,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_payment_status_7": {
+        "records_inserted": 3,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_parties_involved_17": {
+        "records_inserted": 260,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_judges_18": {
+        "records_inserted": 177,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_parties_involved_9": {
+        "records_inserted": 246,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_outcome_types_19": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_case_types_20": {
+        "records_inserted": 6,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_payment_status_18": {
+        "records_inserted": 3,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_payment_status_5": {
+        "records_inserted": 3,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_parties_involved_15": {
+        "records_inserted": 179,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_courts_13": {
+        "records_inserted": 254,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_courts_12": {
+        "records_inserted": 285,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_case_types_1": {
+        "records_inserted": 6,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_parties_involved_14": {
+        "records_inserted": 155,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_payment_status_4": {
+        "records_inserted": 3,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_payment_status_19": {
+        "records_inserted": 3,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_outcome_types_18": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_parties_involved_8": {
+        "records_inserted": 159,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_outcome_types_20": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_case_types_19": {
+        "records_inserted": 6,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_parties_involved_10": {
+        "records_inserted": 144,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_case_types_5": {
+        "records_inserted": 6,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_courts_16": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_courts_17": {
+        "records_inserted": 213,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_case_types_4": {
+        "records_inserted": 6,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_parties_involved_11": {
+        "records_inserted": 215,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_payment_status_20": {
+        "records_inserted": 3,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_payment_status_1": {
+        "records_inserted": 3,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_case_types_18": {
+        "records_inserted": 6,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_judges_20": {
+        "records_inserted": 173,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_parties_involved_13": {
+        "records_inserted": 159,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_payment_status_3": {
+        "records_inserted": 3,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_case_types_6": {
+        "records_inserted": 6,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_courts_15": {
+        "records_inserted": 152,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_courts_14": {
+        "records_inserted": 156,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_case_types_7": {
+        "records_inserted": 6,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_payment_status_2": {
+        "records_inserted": 3,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_parties_involved_12": {
+        "records_inserted": 294,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_parties_involved_3": {
+        "records_inserted": 196,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_judges_10": {
+        "records_inserted": 160,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_outcome_types_13": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_case_types_16": {
+        "records_inserted": 6,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_payment_status_12": {
+        "records_inserted": 3,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_case_type": {
+        "records_inserted": 100,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_outcome_types": {
+        "records_inserted": 50,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_courts_19": {
+        "records_inserted": 243,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_courts_18": {
+        "records_inserted": 172,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_payment_status_13": {
+        "records_inserted": 3,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_judges": {
+        "records_inserted": 50,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_case_types_17": {
+        "records_inserted": 6,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_outcome_types_12": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_parties_involved_2": {
+        "records_inserted": 295,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_judges_11": {
+        "records_inserted": 235,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_judges_13": {
+        "records_inserted": 223,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_case_types_15": {
+        "records_inserted": 6,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_outcome_types_10": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_parties_involved_20": {
+        "records_inserted": 247,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_payment_status_11": {
+        "records_inserted": 3,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_case_types_9": {
+        "records_inserted": 6,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_case_types_8": {
+        "records_inserted": 6,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_payment_status_10": {
+        "records_inserted": 3,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_outcome_types_11": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_case_types_14": {
+        "records_inserted": 6,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_judges_12": {
+        "records_inserted": 284,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_parties_involved_1": {
+        "records_inserted": 248,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_parties_involved_5": {
+        "records_inserted": 297,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_judges_16": {
+        "records_inserted": 299,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_case_types_10": {
+        "records_inserted": 6,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_outcome_types_15": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_payment_status_14": {
+        "records_inserted": 3,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_parties_involved_19": {
+        "records_inserted": 154,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_payment_status_9": {
+        "records_inserted": 3,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_payment_status_8": {
+        "records_inserted": 3,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_parties_involved_18": {
+        "records_inserted": 265,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_payment_status_15": {
+        "records_inserted": 3,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_outcome_types_14": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_case_types_11": {
+        "records_inserted": 6,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_parties_involved_4": {
+        "records_inserted": 300,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_judges_17": {
+        "records_inserted": 228,
+        "timestamp": "2024-11-27 13:49:18"
+    },
+    "dim_judges_15": {
+        "records_inserted": 293,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_parties_involved_6": {
+        "records_inserted": 206,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_outcome_types_16": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_case_types_13": {
+        "records_inserted": 6,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_payment_status_17": {
+        "records_inserted": 3,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_courts_20": {
+        "records_inserted": 167,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_payment_status_16": {
+        "records_inserted": 3,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_case_types_12": {
+        "records_inserted": 6,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_outcome_types_17": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_judges_14": {
+        "records_inserted": 161,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_parties_involved_7": {
+        "records_inserted": 185,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_judges_5": {
+        "records_inserted": 243,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_courts_6": {
+        "records_inserted": 246,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_courts_7": {
+        "records_inserted": 299,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_judges_4": {
+        "records_inserted": 208,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_judges_6": {
+        "records_inserted": 278,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_courts_5": {
+        "records_inserted": 239,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_courts_4": {
+        "records_inserted": 191,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_judges_7": {
+        "records_inserted": 208,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_judges_3": {
+        "records_inserted": 184,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_courts_1": {
+        "records_inserted": 156,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_judges_2": {
+        "records_inserted": 232,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_outcome_types_9": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_parties_involved": {
+        "records_inserted": 100,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_courts_3": {
+        "records_inserted": 248,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_courts_2": {
+        "records_inserted": 211,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_judges_1": {
+        "records_inserted": 243,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "dim_outcome_types_8": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "case_details": {
+        "records_inserted": 100,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "etl_metrics": {
+        "records_inserted": 2,
+        "timestamp": "2024-11-27 13:49:19"
+    },
+    "CaseEg": {
+        "records_inserted": 2,
+        "timestamp": "2024-11-27 13:41:58"
+    },
+    "dim_parties_involved_5e292dd5": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:15:41"
+    },
+    "cases_a796d57b": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:15:41"
+    },
+    "dim_outcome_types_d929e1b5": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:15:41"
+    },
+    "dim_courts_2dbe7c0a": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:15:41"
+    },
+    "dim_payment_status_0f0a03b4": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:15:41"
+    },
+    "dim_judges_e2f61b2f": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:15:41"
+    },
+    "dim_case_type_14161ce7": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:15:41"
+    },
+    "dim_case_type_10b5d659": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:15:41"
+    },
+    "dim_judges_ad0eb573": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:15:41"
+    },
+    "dim_courts_41e46647": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:15:41"
+    },
+    "cases_0f9c2bbe": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:15:41"
+    },
+    "dim_outcome_types_109c43ec": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:15:41"
+    },
+    "dim_parties_involved_ba7585bb": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:15:41"
+    },
+    "dim_payment_status_9e5c0bb3": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:15:41"
+    },
+    "dim_case_type_be601be8": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:15:42"
+    },
+    "dim_courts_d61c83b4": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:15:42"
+    },
+    "dim_payment_status_268e02b3": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:15:42"
+    },
+    "dim_parties_involved_0f4985d4": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:15:42"
+    },
+    "cases_5af6cdd4": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:15:42"
+    },
+    "dim_outcome_types_b460cb61": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:15:42"
+    },
+    "dim_judges_3b5b99fb": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:15:42"
+    },
+    "dim_courts_80fc15c2": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:15:42"
+    },
+    "dim_payment_status_b5f33766": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:15:42"
+    },
+    "dim_case_type_9f653c51": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:15:42"
+    },
+    "dim_judges_7f6bf53e": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:15:42"
+    },
+    "cases_7ec440a4": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:15:42"
+    },
+    "dim_outcome_types_7578a780": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:15:42"
+    },
+    "dim_parties_involved_d770c102": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:15:42"
+    },
+    "dim_parties_involved_59dfe2c0": {
+        "records_inserted": 10,
+        "timestamp": "2024-11-27 14:28:30"
+    },
+    "cases_7130a296": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:28:30"
+    },
+    "dim_outcome_types_b6f83541": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 14:28:30"
+    },
+    "dim_case_type_a70761bf": {
+        "records_inserted": 8,
+        "timestamp": "2024-11-27 14:22:03"
+    },
+    "dim_courts_044b582f": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 14:22:03"
+    },
+    "dim_judges_ffe25c2f": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 14:28:30"
+    },
+    "dim_payment_status_eabe029e": {
+        "records_inserted": 3,
+        "timestamp": "2024-11-27 14:22:03"
+    },
+    "dim_courts_368132cb": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 14:22:03"
+    },
+    "dim_case_type_d088b25c": {
+        "records_inserted": 8,
+        "timestamp": "2024-11-27 14:22:03"
+    },
+    "dim_payment_status_54567937": {
+        "records_inserted": 3,
+        "timestamp": "2024-11-27 14:22:03"
+    },
+    "dim_parties_involved_6d47136e": {
+        "records_inserted": 10,
+        "timestamp": "2024-11-27 14:22:03"
+    },
+    "dim_outcome_types_016cca3d": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 14:22:03"
+    },
+    "cases_32398cf8": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:22:03"
+    },
+    "dim_judges_a0770b81": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 14:22:03"
+    },
+    "cases_b02ae2d1": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:22:03"
+    },
+    "dim_courts_e4068b5a": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 14:22:03"
+    },
+    "dim_parties_involved_32a476e5": {
+        "records_inserted": 10,
+        "timestamp": "2024-11-27 14:22:03"
+    },
+    "dim_case_type_46813afe": {
+        "records_inserted": 8,
+        "timestamp": "2024-11-27 14:22:03"
+    },
+    "dim_judges_83f76573": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 14:22:03"
+    },
+    "dim_payment_status_62b02961": {
+        "records_inserted": 3,
+        "timestamp": "2024-11-27 14:22:04"
+    },
+    "dim_outcome_types_df9c4827": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 14:22:04"
+    },
+    "dim_outcome_types_a8b6c755": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 14:22:04"
+    },
+    "dim_case_type_33afaa5f": {
+        "records_inserted": 8,
+        "timestamp": "2024-11-27 14:22:04"
+    },
+    "cases_ec2385f2": {
+        "records_inserted": 200,
+        "timestamp": "2024-11-27 14:22:04"
+    },
+    "dim_parties_involved_cee1d781": {
+        "records_inserted": 10,
+        "timestamp": "2024-11-27 14:22:04"
+    },
+    "dim_payment_status_4fd03270": {
+        "records_inserted": 3,
+        "timestamp": "2024-11-27 14:22:04"
+    },
+    "dim_judges_b7492813": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 14:22:04"
+    },
+    "dim_courts_b12d81e5": {
+        "records_inserted": 5,
+        "timestamp": "2024-11-27 14:22:04"
+    }
+}

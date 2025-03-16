@@ -1,0 +1,101 @@
+Judge_ID	Judge_Name	Experience_Years	Specialization	Assigned_Court
+b0e9b2fd-5a51-4fdd-a96e-224e85c67328	Kofi Clay	31	Criminal	Berg, Fuller and Miller Court
+f16ca905-98c2-4f7e-88d9-73e0ad5405b8	Akua Hayes	33	Civil	Farmer-Ramirez Court
+de5aded2-8c3f-4920-96ec-70a9c5a7fa2d	Esi Day	6	Civil	Gonzalez PLC Court
+0249cbfc-276b-47c2-9b66-7c6a0bd2ddb2	Kofi Parsons	16	Criminal	Peters PLC Court
+ed0bf9bc-a1de-4dbc-9656-785d71c438be	Afia Mcpherson	17	Civil	Doyle LLC Court
+bcc84c0f-dcd0-485c-9044-57cbe0eb6f52	Kwame Martin	29	Commercial	Silva, Williams and Browning Court
+4839135b-7407-4c98-888b-0b05136dc44b	Akosua Walker	5	Civil	Sandoval Group Court
+d9029f4b-b4cc-4afb-863f-9af16f750ce2	Ama Grant	12	Family	Cooley, Jones and Martinez Court
+c833aaf0-a510-43e4-be63-6e29ff655dd2	Akua Black	23	Commercial	Robbins, Johnson and Galloway Court
+12562f74-702f-43ba-8374-56579a377a6a	Akua Bonilla	8	Criminal	Rivas, Morse and English Court
+8bcb4f0f-a6b5-4380-ad34-be0a75327e47	Akosua Ross	12	Civil	Bates, Daniels and Aguilar Court
+106e1407-4d22-43ce-b6d6-af837067e2f1	Akosua Byrd	11	Commercial	Richardson-Mendez Court
+0959907a-723d-4a9b-9674-ba8fe521e154	Esi Harvey	32	Civil	Santiago, Owens and Wang Court
+c55cafa6-9ae0-4201-9df3-2312b0d98c23	Kofi Schmidt	32	Civil	Riley-Foster Court
+aba912ea-6757-41e6-95f9-114517dc51d5	Ama Gilbert	16	Civil	James-Scott Court
+cdc7a373-b429-41f4-b08f-6e95456e0f28	Ama Ferguson	10	Criminal	Maynard-James Court
+ae8e1e20-55d1-43da-98f3-95a47ef979ee	Esi Snyder	34	Family	Melendez-Carroll Court
+4bec7549-8cf4-4eb9-be8f-cd4570744d3a	Ama Mcdaniel	19	Criminal	Dunn Inc Court
+3bc0ad4c-0e5b-4ce2-aa74-3da55778ff42	Ama Smith	18	Commercial	Lloyd, Knox and Powers Court
+fdbd8899-4c99-4265-99dc-7a23e48d6cc6	Esi Thompson	17	Commercial	Martin, Robinson and Willis Court
+82f0b90f-d98f-4e2b-82c3-4820a05d9a55	Kwabena Williams	27	Criminal	Burke, Mejia and Smith Court
+96d26e47-6a52-4dc9-844d-255e8c7a2308	Ama Mitchell	9	Civil	Lawrence and Sons Court
+475b8cea-33e1-4570-8051-c1c7d3040a9c	Ama Ortiz	6	Commercial	Robertson, Norris and Adams Court
+3912aafd-f775-4bb1-a33e-340e727785f3	Akosua Montgomery	7	Commercial	Price-Copeland Court
+b5115cd0-3099-4eff-bbfe-7c30a5481d18	Akua Gonzalez	35	Criminal	Nichols-Hoffman Court
+c2ebfae2-cdf7-4f09-aa4e-76e9e6f138b9	Kwame Shaw	23	Family	Jackson-Boone Court
+8555daf9-e0b1-4b0d-a6d9-f547047af4c6	Akua Reilly	19	Criminal	Sanders, Diaz and Anderson Court
+970709a7-456e-4b65-a1c6-f803b930b43a	Ama Clark	30	Family	Dennis PLC Court
+aebbedb7-4be6-418b-93f1-3e0a54d91bfc	Yaw Harper	18	Civil	Johnson Group Court
+d08db0bc-cd63-44a6-baed-254391e042fb	Afia Nunez	31	Family	Padilla-Williams Court
+d3993836-2d5f-4328-b5dd-d370e5214b26	Akosua White	23	Family	Mckinney-Kennedy Court
+e09668e4-30f4-4952-b174-42fd1953fc2a	Abena Ray	28	Civil	House Group Court
+f5c1fff9-0464-4698-90d1-ddefc914e4be	Esi Gutierrez	27	Family	Walter-Miller Court
+ffae4d49-9302-425c-a59a-a19fdb1b83a9	Kofi Wood	23	Family	Fischer, Wilson and Rice Court
+87be4036-9bb5-4a26-bf03-2bde9d74f466	Esi Rodriguez	18	Commercial	Garcia-Anderson Court
+b2b69686-9cd4-4da1-b218-2a3d68e88b2b	Kofi Burke	24	Criminal	Barnett PLC Court
+1b34e706-9532-4ac7-8202-2813c7626a76	Kwabena Gould	28	Family	Jones Group Court
+e3e96446-f9c2-45c0-894f-2d993f9183b1	Afia Ewing	21	Criminal	James, Stafford and Anderson Court
+ae4532ed-7e07-4fe7-aacf-4c50e117517e	Esi Phillips	17	Criminal	Hernandez Inc Court
+5d7d0774-904a-4566-8203-c5a935c82a7c	Ama Zimmerman	35	Civil	Garcia-Palmer Court
+55c2f944-3382-46ff-8698-4f719b7e6de6	Akosua Robinson	27	Civil	Walter LLC Court
+f9949d40-2088-4db5-b1bc-6db261045dc2	Kwame Payne	32	Civil	Li, Jordan and Travis Court
+f685c064-2f6d-4a4f-a42c-d6f94b73570e	Kofi Clarke	34	Criminal	Wood-Wong Court
+5a287148-e9c0-45a0-88dd-9bf94290bdd4	Kwabena Freeman	16	Family	Morris Inc Court
+feb44065-87dc-4278-b7e7-b4b1eda0c543	Esi Smith	14	Commercial	Rodriguez, Allen and Smith Court
+4e935f11-4e07-4178-887e-79aac685a2ff	Kwame Hale	20	Family	Thompson Group Court
+78f34d24-a6cd-4e26-abf2-cf6d7d1c6d5a	Kofi Wright	28	Commercial	Kirk and Sons Court
+68587a1b-95ac-4c55-ad5c-e8273a6c4565	Abena Downs	15	Commercial	Mclaughlin-Acosta Court
+67faf4f9-d98f-46fe-b07c-cec86f429f06	Kwabena Martin	35	Civil	Vargas Group Court
+67bd1aa1-aa78-4661-8d95-baba255b0963	Kwame Franklin	17	Commercial	Peters-Gay Court
+5c49d315-fd50-4808-a329-0628fdd5d1f0	Kwame Martin	31	Commercial	Jones-Sellers Court
+54e93de9-7230-4cf8-9622-fbd6462747ae	Abena Cunningham	32	Civil	Lee, Wagner and Williams Court
+1a5f2cd3-8b8e-4831-8b9b-4e3e054b755f	Akosua Martin	30	Criminal	Wood, Alvarez and Gonzales Court
+20ca45f6-b1ac-4935-8089-3204eedd2c30	Kwabena Rice	28	Commercial	Nunez, Serrano and Moyer Court
+d5fbc94a-12b8-49cc-a1a0-af0f95f52ea0	Kofi Jackson	10	Civil	Roberson-Ferguson Court
+f0350be9-f6e0-4a1f-b43e-775adbe68018	Yaw Williams	33	Commercial	Garcia, Sutton and Parker Court
+3fdc0550-42bb-479a-bb82-94351f8f569d	Yaw Reid	32	Commercial	Moore, Hobbs and Compton Court
+4c06224e-b1d0-42b5-9f8c-644bb80b6213	Esi Payne	13	Family	Cruz, Wilson and Norman Court
+5534dc9a-6a5d-41d8-b45d-ccc48468b991	Akua Peters	30	Family	Brown-Davis Court
+8ec2dd84-5574-4a1c-a96c-a6eb5a0b0b08	Kofi Dodson	16	Family	Pearson, Smith and Turner Court
+f7c87e57-3362-4ef5-8d9f-ee6350be2c4c	Akua Proctor	30	Civil	Gardner and Sons Court
+ce540631-d15a-4f9d-8d63-ddbae8eb3ac8	Akosua Arroyo	18	Civil	Campbell-Lozano Court
+ae633331-6f5a-4601-b229-8eee27a50807	Akosua Johnson	30	Commercial	Rice, Harper and Gomez Court
+42ecedd4-ee64-4c9f-a120-3f626e6d569d	Yaw Guzman	29	Criminal	Johnson LLC Court
+78f31f64-4b20-434a-be5c-520edd658a49	Kwabena Lee	23	Commercial	Miller, Willis and Martinez Court
+ac66bfef-2fcc-41e2-91ce-f0e888b00ff9	Esi Scott	10	Criminal	Smith, Taylor and Hamilton Court
+32875e5a-4c33-444b-87d3-b36997bc929f	Kofi Mcclure	10	Commercial	Davis Inc Court
+fc806ba1-a055-4ab8-856b-12560e511f17	Abena Rich	18	Family	Hurst-Roth Court
+d600cc46-0f35-4329-8a6f-1a410ab08303	Akosua Brown	31	Commercial	Murphy LLC Court
+c172ab58-f8e3-4627-8dfb-aa0fe1c0776d	Esi Leon	33	Commercial	Cox, Carey and Hoover Court
+7f83c8ad-bcd2-4a1f-b1d6-c5f2281520dc	Akua Daugherty	25	Commercial	Stone and Sons Court
+c549ed3e-ec30-4625-9fd1-10f7c0374c49	Kwabena Wu	27	Criminal	George, Nelson and Walters Court
+54aadc66-ee48-4a5f-b79b-f05624ae4dfc	Akosua Jones	35	Commercial	Taylor-Holmes Court
+55e818a6-cf85-4f03-b4dd-95f5aa7435ab	Ama Davis	26	Criminal	Wolf, Kaiser and Wilson Court
+272b6377-8e7a-48ee-85a2-b832f2adcb4a	Ama Davis	30	Commercial	Wood-Miller Court
+019becde-ea91-44da-8a00-535aa0168592	Akosua Jones	5	Civil	Barber Group Court
+04f6dd44-f8c4-4f6f-9cdf-17d931e65f51	Kwame Hill	22	Commercial	Fuentes PLC Court
+c31305d3-da3d-4812-a4fc-330b2bb1f225	Akua Adkins	23	Criminal	Moore, Kennedy and Green Court
+82c62b8b-f245-4e53-b0a6-3d8fadf766a2	Akua Jackson	33	Commercial	Mayer, Johnson and Hensley Court
+34a29fbd-6ae5-4bf9-bbeb-78079ba3e991	Afia Thomas	8	Family	Kelly-Gonzalez Court
+8bdb5b91-4719-4b50-8e51-a2ab78dfacb4	Abena Edwards	15	Family	King Group Court
+41456b4e-2a94-4941-96f5-6f0bdf45eefe	Esi Marsh	29	Civil	Lewis-Campos Court
+63321c6c-8dac-4eda-b6cd-c383e2ade354	Kwame Howard	6	Civil	Robinson and Sons Court
+f002a126-4391-4bb8-9267-64d97c242d81	Ama Crawford	22	Civil	Day-Young Court
+cb25b1d5-e8ad-44ac-8ac9-b7a6ec43fe86	Ama Smith	19	Civil	Bryan PLC Court
+2c62d0ab-860f-4a41-85bd-cc96eabb39ff	Yaw Kane	32	Criminal	Smith-Rubio Court
+616420b9-3c15-4c09-ae68-47014e55e29c	Ama Farmer	14	Commercial	Harrison-Taylor Court
+08070546-0cf0-4e5b-bdde-116d33fb0e96	Yaw Moore	8	Criminal	Lamb, Kline and Brewer Court
+bd93b191-5129-4c70-9b27-65f449b888b3	Kwabena Logan	29	Criminal	Miller Group Court
+d7d72500-12f8-4ffb-a2c8-456d8cef75ae	Kwabena Murphy	7	Civil	Meza-Brown Court
+220c5272-1cdd-4f4d-9128-1f4cdabfd4bd	Akua Anderson	16	Civil	Lopez and Sons Court
+b0cb81da-0556-4060-89f8-e8ab46d1c5f4	Esi Long	14	Criminal	Larsen-Harris Court
+d2d8dc62-cc26-426c-a7e4-3ecfbd4d4056	Yaw Mcintyre	27	Criminal	Jones, Hernandez and Burton Court
+7772da4e-e16a-4f31-9040-281baf03c2ad	Kwame Garrison	31	Family	Green-White Court
+9f930b4f-8e57-4efc-9283-79065366fba7	Kofi Washington	10	Criminal	Moore, White and Sharp Court
+9fadf814-2d75-4b9d-8b17-be1c4ecd33fd	Abena Zimmerman	17	Criminal	Zimmerman Ltd Court
+21e87417-6659-4390-89e7-a9cbdf1ea50b	Abena Frazier	29	Commercial	Mitchell Group Court
+f2cbc91d-b45c-47e6-95a6-13cf4a316b8d	Yaw Myers	35	Commercial	Weber PLC Court
+9a9daaae-8d42-413e-ba09-33ac6086ebd8	Afia Rodriguez	20	Criminal	Downs LLC Court
+e72bf28b-f172-4791-97e8-7e72fa508d96	Akua Hernandez	18	Civil	Smith and Sons Court

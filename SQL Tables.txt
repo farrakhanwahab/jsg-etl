@@ -1,0 +1,53 @@
+CREATE TABLE dim_case_types (
+    Case_Type_ID INT PRIMARY KEY AUTO_INCREMENT,
+    Case_Type_Name VARCHAR(255)
+);
+
+CREATE TABLE dim_courts (
+    Court_ID INT PRIMARY KEY AUTO_INCREMENT,
+    Court_Name VARCHAR(100),
+    Court_Location VARCHAR(255)
+);
+
+CREATE TABLE dim_judges (
+    Judge_ID VARCHAR(50) PRIMARY KEY,
+    Judge_Name VARCHAR(100),
+    Experience_Years INT,
+    Specialization VARCHAR(100),
+    Assigned_Court VARCHAR(100)
+);
+
+CREATE TABLE dim_outcome_types (
+    Outcome_Type_ID INT PRIMARY KEY AUTO_INCREMENT,
+    Outcome_Name VARCHAR(255),
+    Description TEXT,
+    Outcome_Type_Name VARCHAR(255)
+);
+
+CREATE TABLE dim_parties_involved (
+    Party_ID VARCHAR(50) PRIMARY KEY,
+    Party_Type VARCHAR(100),
+    Gender VARCHAR(10),
+    Age INT,
+    Legal_Representation VARCHAR(10)
+);
+
+CREATE TABLE dim_payment_status (
+    Payment_Status_ID INT PRIMARY KEY AUTO_INCREMENT,
+    Payment_Status_Name VARCHAR(100)
+);
+
+CREATE TABLE fact_cases (
+    Case_ID VARCHAR(20) PRIMARY KEY,
+    Case_Type VARCHAR(50),
+    Case_Status VARCHAR(50),
+    Filing_Date DATE,
+    Resolution_Date VARCHAR(50),
+    Cost_Type VARCHAR(50),
+    Amount FLOAT,
+    Payment_Status VARCHAR(50),
+    Outcome_Type VARCHAR(50),
+    Resolution_Time INT,
+    Judge_ID VARCHAR(20),
+    Court_Record_ID VARCHAR(20)
+);

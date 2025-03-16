@@ -1,0 +1,101 @@
+Court_ID	Court_Name	Court_Location
+262fcc5f-4875-4c30-87b6-6c90df5781d8	Black, Decker and Velez Court	Koforidua
+5c4a0783-a40c-4638-8489-09e5a299d591	Mcmillan Inc Court	Bolgatanga
+daae7dcb-7fba-469e-9b9b-6b957be7ba13	Garrison, Alvarez and Lynn Court	Tamale
+2d3f9bf2-610c-40de-bb78-719425b1814c	Mcmillan-Rodriguez Court	Ho
+dd58dcff-78c0-413e-a001-891bf266a8bb	Campbell and Sons Court	Cape Coast
+5a3079ac-1e1b-49e0-8d84-3a8cbcf59e92	Boyd, Williamson and Davis Court	Accra
+b01c7284-0a87-4067-8982-44953d97dabf	Brown, Rodriguez and Guzman Court	Bolgatanga
+d543378f-730d-4445-8a5c-11c70c73dcbd	Williams, Long and Becker Court	Sekondi
+bedb3781-0007-4ecb-b07b-1db4164b5850	Hartman-Bradshaw Court	Tamale
+dbebbefe-efe9-444d-8d0f-d88595762491	Rivas-Fox Court	Accra
+86fc7d38-58e4-41d0-b8a8-1e388ec7fb8f	Garcia-Johnson Court	Cape Coast
+f22e678a-1da7-45f5-8b63-25d1faa6d6e4	Webb, Fuller and Wright Court	Tamale
+c8ad976e-4d13-43e2-865d-b7162f89eb96	Andrade and Sons Court	Tamale
+c53d7716-7869-438c-aec1-d26826f41482	Barber and Sons Court	Takoradi
+d6dbc80c-7d99-475a-b912-6c4c22b37ab2	Smith, Martin and Gallegos Court	Takoradi
+56236ae0-130a-4400-8978-7a1dc5a042fa	Mueller, Gibbs and Moore Court	Cape Coast
+1513a60b-0f05-4f89-a602-3333cd0ce96f	Bradley, Bailey and Carey Court	Kumasi
+a79760f3-7938-43fa-87e1-6a5b482ec3a9	Meyers, Pierce and Allen Court	Bolgatanga
+e68e9a16-c10d-44f4-ba53-122e13ddcc03	Marshall, Black and Smith Court	Bolgatanga
+54383491-b582-4227-b243-ee3d932d5683	Barnes-Nelson Court	Accra
+feb839b9-59d5-456d-9780-f02be03a7d59	Lee-Hodge Court	Sekondi
+11886590-e701-4413-8324-bcfcf45e8173	Lang and Sons Court	Sunyani
+846d35c0-a0cf-48bc-8a33-d265f378b311	Rodgers-Adams Court	Takoradi
+adfafbe7-6f17-4c73-88fd-b5b64cafcfe8	Solis-Martinez Court	Tamale
+629796ec-f366-469c-a29b-5b76be6a977a	Hanson-Chase Court	Kumasi
+95aadac8-d517-4a9f-b1ad-f3c6f74a616f	Sullivan, Hull and Roy Court	Sunyani
+7536fd37-5e18-41dd-97f0-f411c7f03a1e	Anderson, Ford and Franklin Court	Bolgatanga
+ddf30ecd-4675-4c0c-9065-17cbe0015eab	James-Moreno Court	Kumasi
+60fa7527-a1f6-46c2-a1b7-174925d87486	Wheeler-Arroyo Court	Bolgatanga
+e2c1a461-940e-43d6-a145-b95be66d8cdd	Reynolds, Diaz and Norris Court	Takoradi
+7530682f-e83f-4c4b-bd62-158c4194595b	Pratt, Davis and Dickerson Court	Sunyani
+120a8f6e-a654-4226-85dc-ba27971a6f5b	Payne LLC Court	Accra
+43c1c6b8-51cf-43de-a78d-4d29e5909e5d	Ward Ltd Court	Takoradi
+129f8584-88dd-4694-9e1d-33ba638054da	Jackson-Lawson Court	Tamale
+9c989eea-36b6-4e8e-be80-3d63d73383b8	Curtis, Moreno and Evans Court	Tamale
+19076c28-0e16-4add-b524-123d38940e14	Lane-Hull Court	Takoradi
+87638cf4-e55c-475b-b499-f4d1aa8f1011	Cooper-Williams Court	Kumasi
+892229e0-8780-46fb-b85d-6f9029df8c2f	Young Ltd Court	Kumasi
+730d62e0-8ff6-418a-9fc2-c0be0a990fa6	Wells and Sons Court	Sekondi
+6499512c-b25b-4175-9413-66fee539c36c	Parker-Clark Court	Sunyani
+48a1312e-496b-4a81-90d2-5cea37a3ebc5	Hale, Rodriguez and Carter Court	Kumasi
+3f3aeac6-9e35-40b7-84f4-b3f9fd23957e	Jackson-Daniels Court	Bolgatanga
+3428ad2b-9224-431a-a91a-e9b821a78a78	Mahoney PLC Court	Tamale
+362562da-42e3-4aff-ae9f-50c0e345d60a	Gamble, Mcclure and Gardner Court	Koforidua
+abd2c9de-75e6-4592-9aa5-44b8f4786c25	Martinez, Anderson and Schultz Court	Sunyani
+7b9d2e55-b476-4a1e-9f69-02322986b1a5	Soto and Sons Court	Takoradi
+40653bf4-5620-4dbd-88b0-bb12565922cd	Smith and Sons Court	Tamale
+0cff68a9-f897-4e21-b0fd-4ffe33f9cc1e	Walker-Knight Court	Kumasi
+d5be971b-9829-45cf-820c-548aa5539041	Hunter-Johns Court	Sunyani
+726d313f-1305-4bb7-89f0-0d8e8bf1c0f2	Woods, Douglas and Ortiz Court	Sekondi
+3fe923a6-848a-40d9-8428-7c7b738c582d	Oliver and Sons Court	Bolgatanga
+95342bc1-6ac5-49a7-8484-12824c34060a	Leonard and Sons Court	Tamale
+3d88938e-8b43-4765-8d5f-dc9b77f5436a	White Ltd Court	Sunyani
+f8324b37-75c9-47ac-9688-7f647968916c	Martinez, Moore and Cruz Court	Ho
+aab06f09-02d4-410a-ba19-a0e41bf5a353	Hansen Ltd Court	Koforidua
+0be4d6a2-94d9-4b73-8dcc-3f78199c15b3	Lee Group Court	Bolgatanga
+304b9876-e670-4a05-b183-c178de67d4a3	Morgan Ltd Court	Bolgatanga
+fe861475-a0f3-4393-916c-bbb98ed6c7a3	Brown PLC Court	Koforidua
+5dd5ab1c-3afd-4306-b6df-9d320bc8b4a7	Hill LLC Court	Tamale
+520212d8-eda4-4e75-809e-73726fa41439	Fischer-Kennedy Court	Takoradi
+4d7ed921-999e-4f01-9e3f-712b0993ffbd	Hamilton, Parrish and Riley Court	Koforidua
+0efadbff-8176-449a-8bd3-8a471b6f53de	Griffin Inc Court	Ho
+be3fec11-0956-42d9-8e3e-72c21c4e5885	Garcia-Smith Court	Koforidua
+128c87cb-2db1-435d-ac6b-5c80bbf7cb16	Clark PLC Court	Accra
+68c494c5-713e-4e95-9f70-adf7274ce503	Palmer Ltd Court	Sekondi
+a2ed5d2c-1222-4158-a9e3-d9610aec2e40	Fernandez-Gardner Court	Kumasi
+eb1f97d4-c8f4-47ed-a427-a4e312312d87	Perez, Horton and Spencer Court	Tamale
+bd974057-a1b5-4078-baac-101454a31811	Wise LLC Court	Ho
+53464efa-e60c-4082-abd1-cfd9fc0d96ec	Fernandez, Sutton and West Court	Bolgatanga
+ed8acc51-578d-493e-b43f-a132f7f492cc	Ritter, Elliott and Yoder Court	Sunyani
+abdfbdd6-f8ec-452e-abbc-1e9dee5b5860	Pruitt-Phelps Court	Koforidua
+7e2959f6-ea88-4d82-b6ae-bfad0ca898d1	Ruiz-Harris Court	Bolgatanga
+6c7c6eb9-a59b-4f80-9dc8-4352bdc18b2c	Moore-Carpenter Court	Bolgatanga
+15ffb53a-cc3b-4ba8-8bbe-278223bc8b7e	Bates, Hanna and Jordan Court	Koforidua
+22b9b762-1b60-4b64-9474-680e132d6639	Buchanan LLC Court	Koforidua
+e06440d5-3b39-4b28-85a1-59afc3fbd22b	Hunter, Ballard and Olson Court	Koforidua
+5a94e800-54d8-4640-b6b3-0eb2c998d930	Donaldson-Thomas Court	Ho
+639cc061-97c4-4e5f-a7a6-11e271c4b48a	Wiley and Sons Court	Ho
+d66226d5-deae-43f4-b71a-5dfa7e748cd7	Stewart-Terry Court	Sekondi
+898a91e4-68d8-44c0-b276-d2e106196a66	Harrington-Collins Court	Accra
+a1a4c923-5447-4de5-83fb-393691457634	Hart, Archer and Hendricks Court	Sekondi
+14a9a4f3-3ef5-4a3f-8e0c-d546d9bb58d9	Blake Inc Court	Tamale
+2e8fc206-662d-4c93-af12-93c6e264c173	Roberts, Carter and Brooks Court	Koforidua
+268c16a6-0410-42ff-901d-60fa118a46fd	Evans, Fuller and Warren Court	Tamale
+b50f85bc-4a4d-49a2-af0e-4e036bada00b	Gonzales PLC Court	Takoradi
+99698fe6-a67f-47b2-97eb-1936b3599823	Fleming, Conner and Johnston Court	Sekondi
+c613e239-5c12-4dea-9aae-1ad51feea6de	Oneill, Perez and Carter Court	Kumasi
+b4f8d58d-cbd0-4dd0-91cb-cc833f4b0c09	Johnson, Arnold and Eaton Court	Koforidua
+357a13d9-b56b-4f8e-97f0-06e533c10346	Gonzalez, Ramos and Andrews Court	Takoradi
+646bcd01-d0dd-4df1-ad5f-919ba0b1fc15	Adams-Arnold Court	Bolgatanga
+077d13a5-63a8-4c19-bc6d-e9022d8e3efb	Harvey LLC Court	Accra
+b13b80a4-8482-46af-b35e-0bffe81fcd6f	Santos Inc Court	Cape Coast
+ca09753f-de98-4a2d-a535-50d4a0339cd9	Jones-Donovan Court	Koforidua
+a018932b-2e25-42bf-ada7-d3e3379266ca	Sullivan, Garcia and Golden Court	Koforidua
+f5257393-0b6c-4d7b-9922-9957ac589716	Davis, George and Tyler Court	Bolgatanga
+7d3688d7-2302-47ca-aadd-c54f5f12af31	Fletcher-Harding Court	Kumasi
+33d54e3e-6aa1-4a4d-9e60-5a7fd1ab7168	Perez, Howe and Perry Court	Tamale
+26346c49-5e33-42a6-a33d-f931a28161c6	Pena, Craig and Herring Court	Takoradi
+f3f85176-c595-42b4-90fa-6aadf4b9a9c3	Neal and Sons Court	Cape Coast
+1a8e41b3-f041-49b8-aa22-76f1387d173d	Jones Ltd Court	Takoradi
