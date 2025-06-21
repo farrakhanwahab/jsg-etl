@@ -245,5 +245,5 @@ For issues or questions:
 
 ---
 
-Enjoy your complete judicial analytics solution!
+By Farrakhan (https://github.com/farrakhanwahab)
 
