@@ -18,7 +18,7 @@ CREATE TABLE dim_judges (
 );
 
 CREATE TABLE dim_outcome_types (
-    Outcome_Type_ID INT PRIMARY KEY AUTO_INCREMENT,
+    Outcome_Type_ID VARCHAR(50) PRIMARY KEY,
     Outcome_Name VARCHAR(255),
     Description TEXT,
     Outcome_Type_Name VARCHAR(255)
