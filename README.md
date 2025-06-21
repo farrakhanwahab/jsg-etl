@@ -245,5 +245,5 @@ For issues or questions:
 
 ---
 
-By Farrakhan (https://github.com/farrakhanwahab)
+By [Farrakhan](https://github.com/farrakhanwahab)
 
