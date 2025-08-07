@@ -16,7 +16,6 @@ A comprehensive Extract, Transform, Load (ETL) solution with modern analytics da
 - Real-time Data: Live data from your MySQL data warehouse
 - Multiple Views: Overview, Cases, Courts, Judges, and Trends
 
----
 
 ## Quick Start (Complete Pipeline)
 
@@ -45,7 +44,6 @@ This single command will:
 - Perform data quality checks
 - Start the modern dashboard
 
----
 
 ## Individual Components
 
@@ -65,7 +63,6 @@ cd modern_dashboard
 ./start_dashboard.sh
 ```
 
----
 
 ## ETL Pipeline Features
 
@@ -94,7 +91,6 @@ cd modern_dashboard
 - Integrity Checks: Foreign key validation
 - Reporting: Detailed quality reports with recommendations
 
----
 
 ## Dashboard Features
 
@@ -117,7 +113,6 @@ cd modern_dashboard
 - Judge Analytics: Experience distribution, assignments
 - Trend Analysis: Historical filing trends
 
----
 
 ## Performance & Scalability
 
