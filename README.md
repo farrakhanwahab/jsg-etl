@@ -47,28 +47,6 @@ This single command will:
 
 ---
 
-## Project Structure
-
-```
-etl_project/
-├── etl_pipeline.py              # Complete ETL pipeline
-├── data_quality_checker.py      # Data quality validation
-├── run_complete_pipeline.sh     # One-command startup script
-├── judicial_dw.sql              # Database schema
-├── modern_dashboard/            # Modern web dashboard
-│   ├── index.html              # Dashboard interface
-│   ├── styles.css              # Modern styling
-│   ├── script.js               # Dashboard functionality
-│   ├── server.py               # Flask backend API
-│   └── start_dashboard.sh      # Dashboard-only startup
-├── Data/                       # Source data files
-├── mock_data/                  # Mock data for testing
-├── generated_data/             # Generated data files
-└── README.md                   # This file
-```
-
----
-
 ## Individual Components
 
 ### ETL Pipeline Only
@@ -141,82 +119,6 @@ cd modern_dashboard
 
 ---
 
-## API Endpoints
-
-The dashboard connects to these REST API endpoints:
-
-- GET /api/metrics - Dashboard key metrics
-- GET /api/charts/status - Case status distribution
-- GET /api/charts/types - Case types distribution
-- GET /api/charts/outcomes - Case outcomes by type
-- GET /api/charts/payment - Payment status distribution
-- GET /api/charts/resolution-time - Resolution time analysis
-- GET /api/charts/courts - Cases per court
-- GET /api/charts/locations - Court location distribution
-- GET /api/charts/experience - Judge experience distribution
-- GET /api/charts/judge-courts - Judges per court
-- GET /api/charts/trends - Filing trends over time
-
----
-
-## Data Quality Reports
-
-The system generates comprehensive data quality reports:
-
-- Completeness Analysis: Missing value percentages
-- Consistency Checks: Duplicate detection, format validation
-- Business Rule Validation: Date logic, amount validation
-- Referential Integrity: Foreign key validation
-- Recommendations: Actionable improvement suggestions
-
-Reports are saved as `data_quality_report.json` and `etl_metrics.json`.
-
----
-
-## Customization
-
-### ETL Pipeline
-- Add Data Sources: Modify `data_sources` in `etl_pipeline.py`
-- Business Rules: Add validation logic in `transform_*` methods
-- Data Quality: Extend checks in `data_quality_checker.py`
-
-### Dashboard
-- Design: Edit `modern_dashboard/styles.css`
-- Charts: Modify `modern_dashboard/script.js`
-- API: Add endpoints in `modern_dashboard/server.py`
-
----
-
-## Troubleshooting
-
-### ETL Pipeline Issues
-- Check MySQL connection and database existence
-- Verify data files exist in source folders
-- Review `etl_pipeline.log` for detailed errors
-- Ensure XAMPP MySQL is running
-
-### Dashboard Issues
-- Verify Flask server is running on port 8080
-- Check browser console for JavaScript errors
-- Ensure database has data (run ETL first)
-- Check API endpoints are responding
-
-### Data Quality Issues
-- Review `data_quality_report.json` for specific issues
-- Check source data for missing or invalid values
-- Verify business rules in transformation logic
-
-### Data Consistency
-
-- The dashboard always displays live data directly from the MySQL database, which is loaded by the ETL pipeline. No static or mock data is used in the dashboard.
-- Ensure your MySQL schema matches the ETL data types. For example, `dim_outcome_types.Outcome_Type_ID` is now `VARCHAR(50)` to support UUIDs from the ETL process.
-
-### Troubleshooting
-
-- If you see 'data truncated' errors during ETL, check that your MySQL schema column types (e.g., VARCHAR vs INT) match the data in your CSVs or source files.
-
----
-
 ## Performance & Scalability
 
 - Efficient Processing: Batch operations for large datasets
@@ -224,26 +126,7 @@ Reports are saved as `data_quality_report.json` and `etl_metrics.json`.
 - Error Recovery: Robust error handling and logging
 - Monitoring: Comprehensive logging and metrics
 
----
 
-## Security & Best Practices
-
-- Local Development: Configured for local development
-- Database Security: Uses local MySQL credentials
-- Input Validation: Data validation and sanitization
-- Error Handling: Secure error messages
-
----
-
-## Support
-
-For issues or questions:
-1. Check the troubleshooting section
-2. Review log files (`etl_pipeline.log`)
-3. Verify all prerequisites are met
-4. Check data quality reports for issues
-
----
 
 By [Farrakhan](https://github.com/farrakhanwahab)
 
