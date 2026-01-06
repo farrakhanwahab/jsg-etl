@@ -80,16 +80,23 @@ class JudicialDashboard {
     }
 
     async fetchMetrics() {
-        // Simulated data - replace with actual API calls
-        return {
-            totalCases: 1250,
-            pendingCases: 342,
-            resolvedCases: 908,
-            resolutionRate: 72.6,
-            avgResolutionTime: 45,
-            totalRevenue: 1250000,
-            activeJudges: 28
-        };
+        try {
+            const response = await fetch('/api/metrics');
+            if (!response.ok) throw new Error('Failed to fetch metrics');
+            return await response.json();
+        } catch (error) {
+            console.error('Error fetching metrics:', error);
+            // Return default values on error
+            return {
+                totalCases: 0,
+                pendingCases: 0,
+                resolvedCases: 0,
+                resolutionRate: 0,
+                avgResolutionTime: 0,
+                totalRevenue: 0,
+                activeJudges: 0
+            };
+        }
     }
 
     updateMetrics(metrics) {
@@ -648,60 +655,194 @@ class JudicialDashboard {
 
     // Data loading methods (to be implemented with actual API calls)
     async loadStatusChart() {
-        // Simulate API call
-        await new Promise(resolve => setTimeout(resolve, 100));
+        try {
+            const response = await fetch('/api/cases/status');
+            const data = await response.json();
+            if (this.charts.statusChart && data.labels && data.data) {
+                this.charts.statusChart.data.labels = data.labels;
+                this.charts.statusChart.data.datasets[0].data = data.data;
+                this.charts.statusChart.update();
+            }
+        } catch (error) {
+            console.error('Error loading status chart:', error);
+        }
     }
 
     async loadTypeChart() {
-        await new Promise(resolve => setTimeout(resolve, 100));
+        try {
+            const response = await fetch('/api/cases/types');
+            const data = await response.json();
+            if (this.charts.typeChart && data.labels && data.data) {
+                this.charts.typeChart.data.labels = data.labels;
+                this.charts.typeChart.data.datasets[0].data = data.data;
+                this.charts.typeChart.update();
+            }
+        } catch (error) {
+            console.error('Error loading type chart:', error);
+        }
     }
 
     async loadOutcomeChart() {
-        await new Promise(resolve => setTimeout(resolve, 100));
+        try {
+            const response = await fetch('/api/cases/outcomes');
+            const data = await response.json();
+            // Update chart with outcome data
+            if (this.charts.outcomeChart) {
+                // Process outcome data for grouped bar chart
+                const caseTypes = Object.keys(data);
+                const outcomes = new Set();
+                caseTypes.forEach(type => {
+                    Object.keys(data[type]).forEach(outcome => outcomes.add(outcome));
+                });
+                
+                const datasets = Array.from(outcomes).map(outcome => ({
+                    label: outcome,
+                    data: caseTypes.map(type => data[type][outcome] || 0),
+                    backgroundColor: this.getColorForOutcome(outcome)
+                }));
+                
+                this.charts.outcomeChart.data.labels = caseTypes.slice(0, 5);
+                this.charts.outcomeChart.data.datasets = datasets.slice(0, 3);
+                this.charts.outcomeChart.update();
+            }
+        } catch (error) {
+            console.error('Error loading outcome chart:', error);
+        }
+    }
+
+    getColorForOutcome(outcome) {
+        const colors = {
+            'Settled': '#10b981',
+            'Dismissed': '#ef4444',
+            'Acquittal': '#6366f1',
+            'Conviction': '#f59e0b'
+        };
+        return colors[outcome] || '#6366f1';
     }
 
     async loadPaymentChart() {
-        await new Promise(resolve => setTimeout(resolve, 100));
+        try {
+            const response = await fetch('/api/cases/payment');
+            const data = await response.json();
+            if (this.charts.paymentChart && data.labels && data.data) {
+                this.charts.paymentChart.data.labels = data.labels;
+                this.charts.paymentChart.data.datasets[0].data = data.data;
+                this.charts.paymentChart.update();
+            }
+        } catch (error) {
+            console.error('Error loading payment chart:', error);
+        }
     }
 
     async loadResolutionTimeChart() {
-        await new Promise(resolve => setTimeout(resolve, 100));
+        try {
+            const response = await fetch('/api/cases/resolution-time');
+            const data = await response.json();
+            if (this.charts.resolutionTimeChart && data.labels && data.data) {
+                this.charts.resolutionTimeChart.data.labels = data.labels;
+                this.charts.resolutionTimeChart.data.datasets[0].data = data.data;
+                this.charts.resolutionTimeChart.update();
+            }
+        } catch (error) {
+            console.error('Error loading resolution time chart:', error);
+        }
     }
 
     async loadCourtChart() {
-        await new Promise(resolve => setTimeout(resolve, 100));
+        try {
+            const response = await fetch('/api/courts');
+            const data = await response.json();
+            if (this.charts.courtChart && data.labels && data.data) {
+                this.charts.courtChart.data.labels = data.labels;
+                this.charts.courtChart.data.datasets[0].data = data.data;
+                this.charts.courtChart.update();
+            }
+        } catch (error) {
+            console.error('Error loading court chart:', error);
+        }
     }
 
     async loadLocationChart() {
-        await new Promise(resolve => setTimeout(resolve, 100));
+        try {
+            const response = await fetch('/api/courts/locations');
+            const data = await response.json();
+            if (this.charts.locationChart && data.labels && data.data) {
+                this.charts.locationChart.data.labels = data.labels;
+                this.charts.locationChart.data.datasets[0].data = data.data;
+                this.charts.locationChart.update();
+            }
+        } catch (error) {
+            console.error('Error loading location chart:', error);
+        }
     }
 
     async loadExperienceChart() {
-        await new Promise(resolve => setTimeout(resolve, 100));
+        try {
+            const response = await fetch('/api/judges/experience');
+            const data = await response.json();
+            if (this.charts.experienceChart && data.labels && data.data) {
+                this.charts.experienceChart.data.labels = data.labels;
+                this.charts.experienceChart.data.datasets[0].data = data.data;
+                this.charts.experienceChart.update();
+            }
+        } catch (error) {
+            console.error('Error loading experience chart:', error);
+        }
     }
 
     async loadJudgeCourtChart() {
-        await new Promise(resolve => setTimeout(resolve, 100));
+        try {
+            const response = await fetch('/api/judges/courts');
+            const data = await response.json();
+            if (this.charts.judgeCourtChart && data.labels && data.data) {
+                this.charts.judgeCourtChart.data.labels = data.labels;
+                this.charts.judgeCourtChart.data.datasets[0].data = data.data;
+                this.charts.judgeCourtChart.update();
+            }
+        } catch (error) {
+            console.error('Error loading judge court chart:', error);
+        }
     }
 
     async loadTrendsChart() {
-        await new Promise(resolve => setTimeout(resolve, 100));
+        try {
+            const response = await fetch('/api/trends');
+            const data = await response.json();
+            if (this.charts.trendsChart && data.labels) {
+                this.charts.trendsChart.data.labels = data.labels;
+                this.charts.trendsChart.data.datasets[0].data = data.filings;
+                this.charts.trendsChart.data.datasets[1].data = data.resolutions;
+                this.charts.trendsChart.update();
+            }
+        } catch (error) {
+            console.error('Error loading trends chart:', error);
+        }
     }
 
     async loadCaseAnalysisData() {
-        await new Promise(resolve => setTimeout(resolve, 100));
+        await Promise.all([
+            this.loadOutcomeChart(),
+            this.loadPaymentChart(),
+            this.loadResolutionTimeChart()
+        ]);
     }
 
     async loadCourtData() {
-        await new Promise(resolve => setTimeout(resolve, 100));
+        await Promise.all([
+            this.loadCourtChart(),
+            this.loadLocationChart()
+        ]);
     }
 
     async loadJudgeData() {
-        await new Promise(resolve => setTimeout(resolve, 100));
+        await Promise.all([
+            this.loadExperienceChart(),
+            this.loadJudgeCourtChart()
+        ]);
     }
 
     async loadTrendsData() {
-        await new Promise(resolve => setTimeout(resolve, 100));
+        await this.loadTrendsChart();
     }
 }
 

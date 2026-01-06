@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 # Check if MySQL is running (XAMPP)
 echo "🔍 Checking MySQL connection..."
-python3 -c "
+python -c "
 import mysql.connector
 try:
     conn = mysql.connector.connect(
@@ -63,4 +63,4 @@ echo "💡 Press Ctrl+C to stop the server"
 echo ""
 
 # Start the Flask server
-python3 server.py 
+python server.py 

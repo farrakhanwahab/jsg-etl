@@ -92,24 +92,26 @@ class JudicialETLPipeline:
             df_transformed.columns = [col.strip().replace(' ', '_').lower() for col in df_transformed.columns]
             
             # Map foreign key columns to match DB schema
+            # Note: Database uses Judge_ID (not Judge_Record_ID) and Court_Record_ID
             fk_map = {
-                'judge_id': 'judge_record_id',
+                'judge_record_id': 'judge_id',  # Map to actual DB column name
                 'court_id': 'court_record_id',
                 'party_id': 'party_record_id'
             }
             for src, dest in fk_map.items():
                 if src in df_transformed.columns and dest not in df_transformed.columns:
                     df_transformed[dest] = df_transformed[src]
-                    df_transformed = df_transformed.drop(columns=[src])
+                    if src != dest:
+                        df_transformed = df_transformed.drop(columns=[src])
             
-            # Convert foreign key columns to integers and handle invalid values
-            fk_columns = ['court_record_id', 'judge_record_id', 'party_record_id']
+            # Handle foreign key columns - keep as strings to match VARCHAR schema
+            fk_columns = ['court_record_id', 'judge_id', 'party_record_id', 'party_id']
             for col in fk_columns:
                 if col in df_transformed.columns:
-                    # Convert to numeric, invalid values become NaN
-                    df_transformed[col] = pd.to_numeric(df_transformed[col], errors='coerce')
-                    # Fill NaN with 0 or a default value
-                    df_transformed[col] = df_transformed[col].fillna(0).astype(int)
+                    # Convert to string, handling NaN values
+                    df_transformed[col] = df_transformed[col].astype(str).replace('nan', None)
+                    # Fill None with empty string or NULL equivalent
+                    df_transformed[col] = df_transformed[col].fillna('')
             
             # Handle missing values
             df_transformed['case_status'] = df_transformed['case_status'].fillna('Pending')
